@@ -1,12 +1,7 @@
-<h1 align="center">Hey there 👋, I'm M. Faizan</h1>
-<h3 align="center">Software Engineering Student · AI Engineer · MERN Stack Developer</h3>
+<h1 align="center">Hey there 👋, I'm M. FAIZAN</h1>
+<h3 align="center">Software Engineer · AI Engineer · Developer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FAIZAN-Bor&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://github.com/FAIZAN-Bor?tab=followers">
-    <img src="https://img.shields.io/github/followers/FAIZAN-Bor?label=Followers&style=social" alt="GitHub followers" />
-  </a>
-</p>
+
 
 ---
 
@@ -17,6 +12,8 @@ Name:       M. Faizan
 Role:       Software Engineering Student | AI Engineer
 Focus:      AI-Powered Applications, MERN Stack, MLOps
 Currently:  Building intelligent systems & scalable web apps
+Email:      faizanafzaal868@gmail.com
+LinkedIn:   linkedin.com/in/m-faizan-503598264
 ```
 
 - 🚀 Building **AI-powered applications & automation pipelines**
@@ -39,17 +36,6 @@ Currently:  Building intelligent systems & scalable web apps
 
 ---
 
-## 📌 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| 🤖 **AI Chatbot Assistant** | Intelligent conversational agent using NLP & ML | Java · OpenNLP · Scikit-Learn |
-| 🛒 **E-Commerce Backend** | RESTful API with auth, payments & real-time inventory | Express · Supabase · Node.js |
-| ♟️ **Multiplayer Chess** | Real-time chess game with socket-based matchmaking | Java · Socket Programming |
-| 📦 **Dockerized CI/CD Apps** | Containerized apps with automated build & deploy pipelines | Docker · GitHub Actions |
-
----
-
 ## 🧠 Core Competencies
 
 ```text
@@ -63,19 +49,6 @@ System Design           ██████████████░░░░�
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FAIZAN-Bor&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=FAIZAN-Bor&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAIZAN-Bor&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🎯 Vision
 
 > *To build intelligent, scalable, and production-ready AI systems that solve real-world problems through automation and data-driven decision making.*
@@ -85,20 +58,22 @@ System Design           ██████████████░░░░�
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:faizanafzaal868@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/m-faizan-503598264/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://github.com/FAIZAN-Bor">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
-  </a>
+
 </p>
+
+| 📧 Email | 💼 LinkedIn |
+|:---:|:---:|
+| [faizanafzaal868@gmail.com](mailto:faizanafzaal868@gmail.com) | [linkedin.com/in/m-faizan-503598264](https://www.linkedin.com/in/m-faizan-503598264/) |
 
 ---
 
 <p align="center">
   <b>⭐ If you find my work useful, consider giving a star!</b><br/>
-  Made with ❤️ by <a href="https://github.com/FAIZAN-Bor">M. Faizan</a>
+  Made with ❤️ by <a href="https://github.com/FAIZAN-Bor">M. FAIZAN</a>
 </p>
